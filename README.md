@@ -5,9 +5,10 @@ Sribu test
 ## Filmatory
 An app to search current trending movies
 
-To run the app :
+To run the app, go to filmatory folder :
 
-    go to filmatory folder
-    run on terminal: npm run serve
+    run on terminal: 
+    npm install
+    npm run serve
 
 
